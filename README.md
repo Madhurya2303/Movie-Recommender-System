@@ -3,7 +3,7 @@
 **MovieMate** is a personalized movie recommendation system developed by [Madhurya](https://github.com/Madhurya2303). It leverages advanced machine learning algorithms to suggest movies based on user preferences and the similarity between movies.
 
 
-## 🚀 Features
+##  Features
 - **🎯 Personalized Recommendations**: Get tailored movie suggestions based on your selected movie.
 - **🌟 User-Friendly Interface**: Simple and intuitive design for seamless navigation.
 - **📱 Responsive Design**: Optimized for desktops, tablets, and mobile devices.
