@@ -4,12 +4,12 @@
 
 
 ## Features
-Personalized Recommendations: Get tailored movie suggestions based on your selected movie.  
-User-Friendly Interface: Simple and intuitive design for seamless navigation.  
-Responsive Design: Optimized for desktops, tablets, and mobile devices.  
-Search Bar Dropdown Menu: Easily select a movie from a comprehensive list in the search bar dropdown.  
-Recommend Button: Click the "Recommend" button to generate movie recommendations.  
-Machine Learning Model: Generates the top 5 recommended movies using advanced machine learning techniques.
+**Personalized Recommendations**: Get tailored movie suggestions based on your selected movie.  
+**User-Friendly Interface**: Simple and intuitive design for seamless navigation.  
+**Responsive Design**: Optimized for desktops, tablets, and mobile devices.  
+**Search Bar Dropdown Menu**: Easily select a movie from a comprehensive list in the search bar dropdown.  
+**Recommend Button**: Click the "Recommend" button to generate movie recommendations.  
+**Machine Learning Model**: Generates the top 5 recommended movies using advanced machine learning techniques.
 
 
 ## 🛠️ Getting Started
