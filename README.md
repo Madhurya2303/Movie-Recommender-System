@@ -35,7 +35,7 @@ Follow these steps to set up and use **MovieMate** on your local machine:
 - **Madhurya** - [GitHub Profile](https://github.com/Madhurya2303)
 
 ## License
-This project is licensed under the MIT License - see the [LICENSE](https://opensource.org/licenses/MIT) file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/Madhurya2303/Movie-Recommender-System/blob/main/LICENSE) file for details.
 
 
 ## 📜 Acknowledgements
