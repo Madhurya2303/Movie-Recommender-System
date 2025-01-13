@@ -12,7 +12,7 @@
 - **Machine Learning Model**: Generates the top 5 recommended movies using advanced machine learning techniques.
 
 
-## 🛠️ Getting Started
+##  Getting Started
 Follow these steps to set up and use **MovieMate** on your local machine:
 
 1. Clone the repository to your local machine.
@@ -22,7 +22,7 @@ Follow these steps to set up and use **MovieMate** on your local machine:
 5. Click the "Recommend" button to get personalized movie recommendations.
 
 
-## 💻 Technologies Used
+##  Technologies Used
 - **Python**: Core programming language.
 - **Streamlit**: For building the interactive web application.
 - **Pandas**: For data manipulation and analysis.
@@ -31,13 +31,13 @@ Follow these steps to set up and use **MovieMate** on your local machine:
 - **Pickle**: For saving and loading pre-processed data.
 
 
-## 🤝 Contributors
+##  Contributors
 - **Madhurya** - [GitHub Profile](https://github.com/Madhurya2303)
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](https://github.com/Madhurya2303/Movie-Recommender-System/blob/main/LICENSE) file for details.
 
 
-## 📜 Acknowledgements
+##  Acknowledgements
 - **[The Movie Database (TMDb)](https://www.themoviedb.org/)**: For providing the movie dataset.
 - **[Streamlit](https://streamlit.io/)**: For enabling rapid development of interactive web applications.
