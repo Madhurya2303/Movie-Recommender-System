@@ -34,6 +34,9 @@ Follow these steps to set up and use **MovieMate** on your local machine:
 ## 🤝 Contributors
 - **Madhurya** - [GitHub Profile](https://github.com/Madhurya2303)
 
+## License
+This project is licensed under the MIT License - see the [LICENSE](https://opensource.org/licenses/MIT) file for details.
+
 
 ## 📜 Acknowledgements
 - **[The Movie Database (TMDb)](https://www.themoviedb.org/)**: For providing the movie dataset.
