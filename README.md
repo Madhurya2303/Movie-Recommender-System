@@ -1,9 +1,7 @@
-```markdown
 # 🎥 MovieMate - Movie Recommender System
 
 **MovieMate** is a personalized movie recommendation system developed by [Madhurya](https://github.com/Madhurya2303). It leverages advanced machine learning algorithms to suggest movies based on user preferences and the similarity between movies.
 
----
 
 ## 🚀 Features
 - **🎯 Personalized Recommendations**: Get tailored movie suggestions based on your selected movie.
@@ -13,33 +11,16 @@
 - **✨ Recommend Button**: Click the "Recommend" button to generate movie recommendations.
 - **🤖 Machine Learning Model**: Generates the top 5 recommended movies using advanced machine learning techniques.
 
----
 
 ## 🛠️ Getting Started
 Follow these steps to set up and use **MovieMate** on your local machine:
 
-1. **Clone the Repository**:
-   ```bash
-   git clone https://github.com/Madhurya2303/Movie-Recommender-System.git
-   cd Movie-Recommender-System
-   ```
-
-2. **Install Dependencies**:
-   Ensure you have Python installed, then run:
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-3. **Run the Application**:
-   Use Streamlit to launch the app:
-   ```bash
-   streamlit run app.py
-   ```
-
-4. **Use the Application**:
-   - Enter the name of a movie in the search bar.
-   - Click the **"Recommend"** button to see personalized movie recommendations.
-
+1. Clone the repository to your local machine.
+2. Install the required dependencies using `pip install -r requirements.txt`.
+3. Run the application using `streamlit run app.py`.
+4. Enter the name of the movie you want to compare.
+5. Click the "Recommend" button to get personalized movie recommendations.
+   
 ## 💻 Technologies Used
 - **Python**: Core programming language.
 - **Streamlit**: For building the interactive web application.
