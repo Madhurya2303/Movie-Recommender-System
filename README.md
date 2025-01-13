@@ -2,7 +2,6 @@
 
 **MovieMate** is a personalized movie recommendation system developed by [Madhurya](https://github.com/Madhurya2303). It leverages advanced machine learning algorithms to suggest movies based on user preferences and the similarity between movies.
 
----
 
 ## Features
 Personalized Recommendations: Get tailored movie suggestions based on your selected movie.  
@@ -12,7 +11,6 @@ Search Bar Dropdown Menu: Easily select a movie from a comprehensive list in the
 Recommend Button: Click the "Recommend" button to generate movie recommendations.  
 Machine Learning Model: Generates the top 5 recommended movies using advanced machine learning techniques.
 
----
 
 ## 🛠️ Getting Started
 Follow these steps to set up and use **MovieMate** on your local machine:
@@ -23,7 +21,6 @@ Follow these steps to set up and use **MovieMate** on your local machine:
 4. Enter the name of the movie you want to compare.
 5. Click the "Recommend" button to get personalized movie recommendations.
 
----
 
 ## 💻 Technologies Used
 - **Python**: Core programming language.
@@ -33,12 +30,10 @@ Follow these steps to set up and use **MovieMate** on your local machine:
 - **NLTK**: For natural language processing.
 - **Pickle**: For saving and loading pre-processed data.
 
----
 
 ## 🤝 Contributors
 - **Madhurya** - [GitHub Profile](https://github.com/Madhurya2303)
 
----
 
 ## 📜 Acknowledgements
 - **[The Movie Database (TMDb)](https://www.themoviedb.org/)**: For providing the movie dataset.
