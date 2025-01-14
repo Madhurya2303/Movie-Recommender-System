@@ -36,5 +36,5 @@ This project is licensed under the MIT License - see the [LICENSE](https://githu
 
 
 ##  Acknowledgements
-- **[The Movie Database (TMDb)](https://www.themoviedb.org/)**: For providing the movie dataset.
-- **[Streamlit](https://streamlit.io/)**: For enabling rapid development of interactive web applications.
+- **[The Movie Database (TMDb)]**: For providing the movie dataset.
+- **[Streamlit]**: For enabling rapid development of interactive web applications.
