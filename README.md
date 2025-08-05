@@ -1,6 +1,6 @@
 # MovieMate - Movie Recommender System
 
-**MovieMate** is a personalized movie recommendation system developed by [Madhurya](https://github.com/Madhurya2303). It leverages advanced machine learning algorithms to suggest movies based on user preferences and the similarity between movies.
+**MovieMate** is a personalized movie recommendation system, leverages advanced machine learning algorithms to suggest movies based on user preferences and the similarity between movies.
 
 
 ## Features
@@ -29,11 +29,6 @@ Follow these steps to set up and use **MovieMate** on your local machine:
 - **Scikit-learn**: For machine learning algorithms.
 - **NLTK**: For natural language processing.
 - **Pickle**: For saving and loading pre-processed data.
-
-
-## License
-This project is licensed under the MIT License - see the [LICENSE](https://github.com/Madhurya2303/Movie-Recommender-System/blob/main/LICENSE) file for details.
-
 
 ##  Acknowledgements
 - **The Movie Database (TMDb)**: For providing the movie dataset.
